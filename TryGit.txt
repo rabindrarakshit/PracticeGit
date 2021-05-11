@@ -1,4 +1,3 @@
-Master Change Again and Removed - Branch B
 Branch Change - Test commit which does not have conflicts
 try Rebase again
 Branch Change
