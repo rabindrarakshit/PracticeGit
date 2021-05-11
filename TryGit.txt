@@ -1,6 +1,7 @@
-Master Change Again and Removed
+Master Change Again and Removed - Branch B
 Branch Change - Test commit which does not have conflicts
 try Rebase again
 Branch Change
 Test Personal Access token 1
-Branch A
+Change 1
+Change 2
