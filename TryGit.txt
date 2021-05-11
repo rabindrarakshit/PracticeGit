@@ -4,3 +4,6 @@ try Rebase again
 Branch Change
 Test Personal Access token 1
 Branch A
+Change 1
+Change 2
+Change 3
