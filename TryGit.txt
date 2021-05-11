@@ -1,4 +1,4 @@
-Master Change Again and Removed
+Master Change Again and Removed 1
 Branch Change - Test commit which does not have conflicts
 try Rebase again
 Branch Change
